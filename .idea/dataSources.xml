@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@rds" uuid="4bb4a61a-4b71-4337-aa6c-a0a41fdadb17">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://django-testaws.cghkn0u37h8q.ap-northeast-2.rds.amazonaws.com:5432/fastcampus</jdbc-url>
+    </data-source>
+  </component>
+</project>
